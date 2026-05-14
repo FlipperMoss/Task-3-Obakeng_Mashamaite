@@ -128,8 +128,6 @@ This project was completed as part of the **DecodeLabs Cybersecurity Internship 
 
 ## 🔗 Connect With Me
 
-LinkedIn: [Your LinkedIn]
-
-GitHub: [Your GitHub]
+LinkedIn: https://www.linkedin.com/in/obakeng-mashamaite-665368301/
 
 ⭐ Feel free to fork, improve, or star this repository!
